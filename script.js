@@ -138,7 +138,7 @@ marker3.addListener(
     );
   }
 );
-
+/*Find current location
 infoWindow = new google.maps.InfoWindow();
 
   const locationButton = document.createElement("button");
@@ -180,4 +180,4 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
       : "Error: Your browser doesn't support geolocation."
   );
   infoWindow.open(map);
-};
+};*/
